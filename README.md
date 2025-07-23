@@ -61,4 +61,39 @@ The following report comprises of 3 pages;
 - The overview page which contains the KPIs and the cookie analysis
 - Customer analysis
 - Order analysis
--![](Model PNG.png)
+
+## Recommendations and Conclusion.
+The following are things to be done to improve sales.
+1. __Promote Best Sellers More Aggressively__
+Increase marketing for top-selling, high-margin cookies like Chocolate Chip.
+__Introduce “Buy 2, Get 1 Free” deals or bundles.__
+
+2. __Revisit Pricing for Low-Profit Cookies__
+For cookies with low margin, the company should  consider:
+- Slightly increasing price.
+- Reducing cost through ingredient optimization or sourcing.
+
+3. __Introduce Seasonal Promotions__
+Use months with historically low sales to run promos like:
+__“Valentine Cookie Boxes”__ __“Holiday Specials”__
+
+4. __Expand Sales in Underserved Locations__
+Run regional ad campaigns or partnerships in locations with low sales.
+
+5. __Launch a Customer Loyalty Program__
+Reward frequent buyers with discounts, points, or exclusive flavors.
+
+6. __Experiment with Limited Edition Flavors__
+Short-term, rotating cookie types can spike customer curiosity and sales.
+
+7. __Improve Inventory Based on Demand Data__
+Use historical sales data to stock up bestsellers in advance to avoid stockouts.
+
+__In conclusion__, Kelvin Cookie Company is on the right path with strong-performing products.
+
+However, to maximize profit and scale sales, they should focus on bestsellers, optimize pricing, and target low-performing areas with strategic promotions.
+
+Leveraging data-driven decisions will help them run a leaner, more profitable operation while also delighting customers with targeted offers and better value.
+
+
+
