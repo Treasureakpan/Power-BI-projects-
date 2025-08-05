@@ -1,4 +1,5 @@
-# KELVIN COOKIES 
+# KELVIN COOKIES
+![Alt text](Customer Analysis.png)
 ## Introduction 
 The following dataset was gotten from a cookie company named Kevin Cookies.
 This company was facing a lot of losses in sales, hence they needed help to uncover the root cause of the problem.
