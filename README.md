@@ -1,5 +1,5 @@
 # KELVIN COOKIES
-![Alt text](Customer Analysis.png)
+![Alt text](https://github.com/Treasureakpan/Power-BI-projects-/blob/main/Kelvin%20Cookies%20Store.jpg)
 ## Introduction 
 The following dataset was gotten from a cookie company named Kevin Cookies.
 This company was facing a lot of losses in sales, hence they needed help to uncover the root cause of the problem.
@@ -20,8 +20,12 @@ The following Power BI features incorporated includes; DAX, quick measures, mode
 
 __PowerBI Concept Applied__
 __DAX Concept__: Calculated Columns and Measures, Aggregation Functions.
+![Alt text](https://github.com/Treasureakpan/Power-BI-projects-/blob/main/Model%20PNG.png)
+
 
 __Data Modeling__: Many to one (* :1)
+
+![Alt text](https://github.com/Treasureakpan/Power-BI-projects-/blob/main/Model%20PNG.png)
 
 ## Problem Statement
 __KPIs__
@@ -53,6 +57,8 @@ The data was effectively cleaned and transformed with Power Query Editor in Powe
 
 - Data types from the cookies table, customers table and the orders table was adjusted from numbers to text format and from text to numbers accordingly
 - A calendar table was created to efficiently track and analyse the orders table.
+
+![Alt text](https://github.com/Treasureakpan/Power-BI-projects-/blob/main/Power%20query.png)
   
 ## Data Modeling
 The model used here is a star schema. It contains one fact table and 3 dimensional table which is connected with one to many relationships.
@@ -62,6 +68,12 @@ The following report comprises of 3 pages;
 - The overview page which contains the KPIs and the cookie analysis
 - Customer analysis
 - Order analysis
+
+![Alt text](https://github.com/Treasureakpan/Power-BI-projects-/blob/main/KPIs%20and%20Cookies%20Analysis.png)
+
+![Alt text](https://github.com/Treasureakpan/Power-BI-projects-/blob/main/Customer%20Analysis.png)
+
+![Alt text](https://github.com/Treasureakpan/Power-BI-projects-/blob/main/Order%20Analysis.png)
 
 ## Recommendations and Conclusion.
 The following are things to be done to improve sales.
