@@ -20,7 +20,7 @@ The following Power BI features incorporated includes; DAX, quick measures, mode
 
 __PowerBI Concept Applied__
 __DAX Concept__: Calculated Columns and Measures, Aggregation Functions.
-![Alt text](https://github.com/Treasureakpan/Power-BI-projects-/blob/main/Model%20PNG.png)
+![Alt text](https://github.com/Treasureakpan/Power-BI-projects-/blob/main/Dax%20measures.png)
 
 
 __Data Modeling__: Many to one (* :1)
@@ -62,6 +62,8 @@ The data was effectively cleaned and transformed with Power Query Editor in Powe
   
 ## Data Modeling
 The model used here is a star schema. It contains one fact table and 3 dimensional table which is connected with one to many relationships.
+
+![Alt text](https://github.com/Treasureakpan/Power-BI-projects-/blob/main/Model%20PNG.png)
 
 ## Visualization
 The following report comprises of 3 pages;
